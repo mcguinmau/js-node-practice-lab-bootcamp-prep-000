@@ -7,4 +7,4 @@ console.log("Name:")
 console.log(name)
 
 console.log("Height:")
-console.log lparseInt(height + 1)
+console.log lpat(height + 1)
